@@ -1,108 +1,108 @@
-No Answer
-Black2
-White2
-Male
-Female
-Battle
-Trade
-The City
-The Countryside
-Smart
-Athletic
-Time
-Money
-Appearance
-Substance
+Geen Antwoord
+Zwart2
+Wit2
+Jongen
+Meisje
+Gevecht
+Ruilen
+De Stad
+Het Platteland
+Slim
+Atletisch
+Tijd
+Geld
+Verschijning
+Vermogen
 Cool
-Cute
-Strange
+Schattig
+Raar
 Tepig
 Oshawott
 Snivy
-Competition
-Cooperation
+Competitie
+Samenwerking
 -
-Go to the past
-Go to the future
-Don't need
-Family
-Friends
-Self
-Cool People
-Smart Person
-Funny Man
-Strange Person
-Chasing a dream
-Reality Check
+Ga naar het verleden
+Ga naar de toekomst
+Heb ik niet
+Familie
+Vrienden
+Zelf
+Coole Mensen
+Slimme Persoon
+Grappige Man
+Rare Persoon
+Een droom achtervolgen
+Realiteitscontrole
 -
 -
-Interesting
+Interessant
 Cool
 Kind
-Rich
-Battles
-Collecting
-The Story
+Rijk
+Gevechten
+Verzamelen
+Het verhaal
 Pokémon
-Flying
-Become transparent
-Stop Time
-Read Minds
-Use
-Save
-Be Proud
-Donate
-0 - 5 years
-5 - 10 years
-10 - 15 years
-15 - years
-Play Outside
-Shopping
-Reading
-Video Games
-Sleeping Late
+Vliegende
+Wordt onzichtbaar
+Stop De Tiid
+Lees Gedachte
+Gebruik
+Bewaren
+Trots Zijn
+Betalen
+0 - 5 Jaar
+5 - 10 Jaar
+10 - 15 Jaar
+15 - Jaar
+Buitenspelen
+Winkelen
+Lezen
+Video Spelletje
+Laat gaan slapen
 Pop
 Rock
 Jazz
 Rap
-Classical
-News
+Classicaal
+Nieuws
 Drama
 Comedy
-Sports
+Sporten
 Cartoons
-Action
+Actie
 Sci-Fi
-Romance
-Suspense
+Roman
+Spanning
 Comedy
 Horror
-Action
+Actie
 Puzzle
 RPG
-Adventure
-Simulation
+Avontuur
+Simulatie
 Sport
-Work
-Interpersonal
+Werk
+Interpersoonlijk
 Hobby
-Health
-Become Mighty
+gezondheid
+Wordt Machtig
 -
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
-Video Games
+Oefenen
+Lezen
+Muziek
+Filmen
+Reizen
+Koken
+Vissen
+Video Spelletjes
 Student
-Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
+Kantoor Werker
+Maker
+Zelf-Werkende
+Publiek Officieel
+Huizenmaker
 Artist
 Job-Hopper
 Cheren
@@ -116,31 +116,31 @@ Marlon
 -
 -
 -
-Normal
-Fire
+Normaal
+Vuur
 Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+Electrisch
+Gras
+Ijs
+Vecht
+Vergif
+Grond
+Vliegende
+Psychisch
+Insect
+Steen
+Spook
+Draak
+Duister
+Ijzer
+0-10 Uren
+10-20 Uren
+20-30 Uren
+30-40 Uren
+40-50 Uren
+50-60 Uren
+60-70 Uren
+70-80 Uren
+80-90 Uren
+90-100 Uren
+100+ Uren
